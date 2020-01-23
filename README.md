@@ -1,6 +1,6 @@
 
-# :dog: Wrangle and Analyze Data Project -  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deepaksithu/Wrangle_and_Analyze_Data_Project/master?filepath=wrangle_act.ipynb)
-The Wrangle and Analyze Data Project is a project for the Wrangle and Analyze Data section of the Udacity Data Analyst Nanodegree program. In this project several data sets relating to the WeRateDogs Twitter account are gathered, cleaned, and analyzed. 
+# :dog: Twitter Archive Analysis Project -  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deepaksithu/Wrangle_and_Analyze_Data_Project/master?filepath=wrangle_act.ipynb)
+The Twitter Archive Analysis Project is a project for the wrangle and analyze data section of the Udacity Data Analyst Nanodegree program. In this project several data sets relating to the WeRateDogs Twitter account are gathered, cleaned, and analyzed. 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -31,7 +31,6 @@ The Binder badge above can be used to explore an executable environment for this
 
 ## Issues
 
-- rename project to WeRateDogs Twitter Archive Analysis
 - organize and clear files in project folder
 - include more statistical analysis?
 - add features to README
